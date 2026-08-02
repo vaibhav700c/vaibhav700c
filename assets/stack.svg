@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Technology stack">
+  <defs>
+    <style>
+      .plate { fill: #0D1117; stroke: #21262D; stroke-width: 1; }
+      .head  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; letter-spacing: 1.8px; fill: #F0883E; }
+      .item  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #C9D1D9; }
+      .rule  { stroke: #21262D; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="plate" x="0.5" y="0.5" width="1199" height="299" rx="14" />
+
+  <text class="head" x="56" y="60">LANGUAGES</text>
+  <line class="rule" x1="56" y1="76" x2="240" y2="76" />
+  <text class="item" x="56" y="108">TypeScript</text>
+  <text class="item" x="56" y="138">JavaScript</text>
+  <text class="item" x="56" y="168">Python</text>
+  <text class="item" x="56" y="198">C++</text>
+  <text class="item" x="56" y="228">Java</text>
+
+  <text class="head" x="344" y="60">FRONTEND</text>
+  <line class="rule" x1="344" y1="76" x2="528" y2="76" />
+  <text class="item" x="344" y="108">React</text>
+  <text class="item" x="344" y="138">Next.js</text>
+  <text class="item" x="344" y="168">Tailwind CSS</text>
+  <text class="item" x="344" y="198">Three.js</text>
+  <text class="item" x="344" y="228">Framer Motion</text>
+
+  <text class="head" x="632" y="60">BACKEND AND DATA</text>
+  <line class="rule" x1="632" y1="76" x2="816" y2="76" />
+  <text class="item" x="632" y="108">Node.js</text>
+  <text class="item" x="632" y="138">Express</text>
+  <text class="item" x="632" y="168">FastAPI</text>
+  <text class="item" x="632" y="198">MongoDB</text>
+  <text class="item" x="632" y="228">Redis</text>
+
+  <text class="head" x="920" y="60">CHAIN AND XR</text>
+  <line class="rule" x1="920" y1="76" x2="1104" y2="76" />
+  <text class="item" x="920" y="108">Cardano</text>
+  <text class="item" x="920" y="138">Aiken</text>
+  <text class="item" x="920" y="168">IPFS</text>
+  <text class="item" x="920" y="198">Unity</text>
+  <text class="item" x="920" y="228">OpenXR</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Vaibhav Jangid, full-stack engineer">
+  <defs>
+    <style>
+      .plate  { fill: #0D1117; stroke: #21262D; stroke-width: 1; }
+      .name   { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 54px; font-weight: 700; letter-spacing: -1.2px; fill: #E6EDF3; }
+      .role   { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 500; fill: #E6EDF3; }
+      .mono   { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13.5px; fill: #8B949E; }
+      .label  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; letter-spacing: 1.6px; fill: #6E7681; }
+      .value  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #E6EDF3; }
+      .accent { fill: #F0883E; }
+    </style>
+  </defs>
+
+  <rect class="plate" x="0.5" y="0.5" width="1199" height="319" rx="14" />
+
+  <text class="name" x="56" y="118">VAIBHAV JANGID</text>
+  <rect class="accent" x="56" y="140" width="76" height="3" rx="1.5" />
+
+  <text class="role" x="56" y="186">Full-stack engineer</text>
+  <text class="mono" x="56" y="214">React, Next.js, TypeScript, Node, FastAPI</text>
+  <text class="mono" x="56" y="248">B.Tech CSE, VIT Vellore, 2023 to 2027</text>
+
+  <text class="label" x="880" y="116">CGPA</text>
+  <text class="value" x="1144" y="116" text-anchor="end">9.44 / 10</text>
+
+  <text class="label" x="880" y="166">HACKATHON</text>
+  <text class="value accent" x="1144" y="166" text-anchor="end">1st of 200+</text>
+
+  <text class="label" x="880" y="216">BASED IN</text>
+  <text class="value" x="1144" y="216" text-anchor="end">Bangalore, IN</text>
+</svg>
