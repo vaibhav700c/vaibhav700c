@@ -22,6 +22,15 @@ Final-year CS student at VIT Vellore. I build full-stack web apps, wander into X
   </a>
 </p>
 
+### open source
+
+60 merged pull requests into repos I do not own, most of them frontend work on event platforms for [CodeChef-VIT](https://github.com/CodeChefVIT).
+
+- **[gravitas24-landing](https://github.com/CodeChefVIT/gravitas24-landing)** responsive countdown, 3D image cards, event pages
+- **[codechef-landing-24](https://github.com/CodeChefVIT/codechef-landing-24)** homepage redesign, navbar animation fixes
+- **[papers-codechef](https://github.com/CodeChefVIT/papers-codechef)** past paper archive for VIT students
+- **[ForReal-Yantra](https://github.com/DhruvsChopra/ForReal-Yantra)** AR and VR gesture handling in Unity
+
 ### a snake eating a year of my commits
 
 <picture>
