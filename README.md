@@ -12,6 +12,16 @@ Final-year CS student at VIT Vellore. I build full-stack web apps, wander into X
 
 <img src="assets/stack.svg" alt="Languages, frontend, backend and chain and XR tooling" width="100%" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,react,nextjs,tailwind,threejs,nodejs&theme=dark" alt="TypeScript, JavaScript, Python, C++, Java, React, Next.js, Tailwind, Three.js, Node.js" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,fastapi,mongodb,redis,postgres,supabase,docker,git,unity,vercel&theme=dark" alt="Express, FastAPI, MongoDB, Redis, PostgreSQL, Supabase, Docker, Git, Unity, Vercel" />
+  </a>
+</p>
+
 ### a snake eating a year of my commits
 
 <picture>
